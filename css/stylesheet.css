@@ -3,6 +3,6 @@ body { background: #f5f5fa; color: #1f1f29; }
 .container {
     width: 85%;
     margin: auto;
-    background: white;
+    background: pink;
     border: 1px solid black;
 }
